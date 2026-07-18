@@ -13,7 +13,6 @@
 - 👨‍💼 Employee Management System
 - 🛒 Product React App
 
-## 📈 GitHub Stats
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
