@@ -14,4 +14,4 @@
 - 🛒 Product React App
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alantsaji18&show_icons=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=alantsaji18)
