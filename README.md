@@ -14,4 +14,4 @@
 - 🛒 Product React App
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alantsaji18&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alantsaji18&show_icons=true)
