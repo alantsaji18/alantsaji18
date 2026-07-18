@@ -14,4 +14,5 @@
 - 🛒 Product React App
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=alantsaji18&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=alantsaji18&theme=tokyonight&hide_border=true)
+
